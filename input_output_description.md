@@ -16,5 +16,5 @@
 	- prov_ID        : Provider ID                      
 	- prov_clust      : Procedure code                                                                 
 	 
- - Reference file: sample.zip.out	
+ - Reference file: sample.csv.out	
 	
